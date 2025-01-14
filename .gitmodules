@@ -1,3 +1,15 @@
 [submodule "LIBFT"]
 	path = LIBFT
 	url = https://github.com/Selboukaoui/LIBFT
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/Selboukaoui/ft_printf
+[submodule "Get-next-line"]
+	path = Get-next-line
+	url = https://github.com/Selboukaoui/Get-next-line
+[submodule "Borntoberoot"]
+	path = Borntoberoot
+	url = https://github.com/Selboukaoui/Borntoberoot
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/Selboukaoui/minitalk
